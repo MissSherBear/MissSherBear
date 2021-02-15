@@ -1,4 +1,4 @@
-## Hello! I’m @MissSherBear
+## Hello! I’m Sheridan
 I'm a Salesforce Developer at Cherwell Software. <br>
 I am currently located in Denver, CO.
 
