@@ -1,4 +1,5 @@
-## Hi, I’m Sheridan. I'm a Salesforce Developer
+<h1 align="center">Hi, I’m Sheridan</h1>
+<h3 align="center">I'm a Salesforce Developer <img src="https://icon-icons.com/icons2/2699/PNG/32/salesforce_logo_icon_170764.png"/> </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MissSherBear" alt="MissSherBear" /> </p>
 
