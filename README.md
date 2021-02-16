@@ -2,7 +2,8 @@
   <br>Hi, I’m Sheridan <img src="https://icon-icons.com/icons2/2699/PNG/32/salesforce_logo_icon_170764.png"/></h1>
 <h3 align="center">I'm a Salesforce Developer</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MissSherBear" alt="MissSherBear" /> </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=misssherbear.visitor-badge)
 
 ### 🌐 &nbsp;Tech Stack
 
@@ -19,7 +20,6 @@
 ## My Stats
 <p>
 <a href="https://github.com/MissSherBear">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissSherBear&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MissSherBear&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissSherBear&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" />
 </a>
 </p>
