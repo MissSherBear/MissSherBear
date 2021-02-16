@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I’m Sheridan <img src="https://icon-icons.com/icons2/2699/PNG/32/salesforce_logo_icon_170764.png"/></h1>
+<h1 align="center"> <a href="https://github.com/MissSherBear"> <img height="180em" align="center" src="./Cody-cowboy-waving.gif" /></a>
+  <br>Hi, I’m Sheridan <img src="https://icon-icons.com/icons2/2699/PNG/32/salesforce_logo_icon_170764.png"/></h1>
 <h3 align="center">I'm a Salesforce Developer</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MissSherBear" alt="MissSherBear" /> </p>
@@ -13,6 +14,7 @@
 ![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 
 ## My Stats
 <p>
