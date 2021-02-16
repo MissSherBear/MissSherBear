@@ -21,5 +21,6 @@
 <p>
 <a href="https://github.com/MissSherBear">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MissSherBear&show_icons=true&theme=radical&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MissSherBear&theme=radical&layout=compact" />
 </a>
 </p>
