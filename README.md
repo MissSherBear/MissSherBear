@@ -23,16 +23,6 @@
 ![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=00F200)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-333333?style=flat&logo=atlassian&logoColor=00AEEF)
 
-
-
-
-
-
-
-
-
-
-
 ## My Stats
 <p>
 <a href="https://github.com/MissSherBear">
@@ -40,3 +30,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MissSherBear&theme=radical&layout=compact" />
 </a>
 </p>
+
+
+#### Developer Joke of the Day
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
