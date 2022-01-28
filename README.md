@@ -30,7 +30,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MissSherBear&theme=radical&layout=compact" />
 </a>
 </p>
-
-
-#### Developer Joke of the Day
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
