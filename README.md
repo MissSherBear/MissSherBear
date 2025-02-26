@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://github.com/MissSherBear"> <img height="180em" align="center" src="./Cody-cowboy-waving.gif" /></a>
   <br>Hi, I’m Sheridan <img src="https://icon-icons.com/icons2/2699/PNG/32/salesforce_logo_icon_170764.png"/></h1>
-<h3 align="center">I'm a Senior Salesforce Developer</h3> 
+<h3 align="center">I'm a Manager of Salesforce Development</h3> 
 
 [![Follow on LinkedIn](https://img.shields.io/badge/-Follow%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sheridan-gill)
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-ff03ec.svg?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/trailblazer-community/inbox?lang=en&users=0053A00000EDPTPQA5&source=hire_me)
